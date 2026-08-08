@@ -1,0 +1,1 @@
+I am relearning HTML because I haven't used it in over 2 years. I want to relearn HTML to build a personal portfolio website to show people the things I've done. This can also act as my "resume" and a fun project to publish.
